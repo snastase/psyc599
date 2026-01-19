@@ -65,4 +65,6 @@ jupyter lab
 
 This will open an interactive development environment in your browser where you should be able to open and run the notebooks.
 
+When you're finished and ready to submit your notebook, make sure all the cells have run and the outputs are rendered. Then, use *File* > *Save and Export Notebook As* > *PDF* to save the completed notebook as a PDF. Email this PDF to your instructor before the due date.
+
 If you run into any problems, ***ask questions early and often!***
